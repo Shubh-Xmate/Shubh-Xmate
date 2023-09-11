@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align = "center"><h1> Hi there <a href="https://github.com/Shubh-Xmate"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Shubham Shukla</h1></div>
+<h3 align="center">A passionate developer | competitive coder from India!</h3>
 
-<!--
-**Shubh-Xmate/Shubh-Xmate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<hr />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/mitul3737/mitul3737/main/mituls%20code.gif" width="250" height="200" />
+- 🔭 I’m currently a senior at IIT Mandi, pursuing my B.Tech in Computer Science.<br>
+- 🌱 I’m currently learning Machine Learning, Deep Learning, NLP and Reinforcement learning<br>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/shukla-shubh/">Shubham Shukla (Linkedin)</a><br>
+- 🗳 Email me at <a href="shuklashubham2277@gmail.com">Shubham Shukla (Email)</a><br>
+<hr />
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shubh-Xmate&show_icons=true&locale=en" alt="Shubh-Xmate" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
