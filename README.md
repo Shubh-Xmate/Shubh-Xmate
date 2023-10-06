@@ -1,5 +1,5 @@
 <div align = "center"><h1> Hi there <a href="https://github.com/Shubh-Xmate"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Shubham Shukla</h1></div>
-<h3 align="center">A passionate developer | competitive coder from India!</h3>
+<h3 align="center">A passionate developer | Core CS Lover | competitive coder from India!</h3>
 
 
 <hr />
