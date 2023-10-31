@@ -5,7 +5,7 @@
 <hr />
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mitul3737/mitul3737/main/mituls%20code.gif" width="250" height="200" />
 - 🔭 I’m currently a senior at IIT Mandi, pursuing my B.Tech in Computer Science.<br>
-- 🌱 I’m currently learning Machine Learning, Deep Learning, NLP and Reinforcement learning<br>
+- 🌱 Currently learning Machine Learning, Deep Learning, NLP and Reinforcement learning<br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/shukla-shubh/">Shubham Shukla (Linkedin)</a><br>
 - 🗳 Email me at <a href="shuklashubham2277@gmail.com">Shubham Shukla (Email)</a><br>
 <hr />
